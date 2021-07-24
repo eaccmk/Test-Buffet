@@ -7,10 +7,13 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 ```
 ----
 
-
-<h2 >Become a sponsors 🥇</h2> 
-
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/eaccmk)
+<p align="center">
+  <a href="https://github.com/sponsors/eaccmk" target="_blank" >
+    <img src="img/buffet.jpg" height="350px" width="750px" alt="sample placeholder image for logo">
+  </a>
+  <br>
+  <a href="http://www.freepik.com">Designed by brgfx / Freepik</a>
+</p>
 
 ----
 
@@ -203,11 +206,14 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 
 ## License 🔰
 
-### [MIT](LICENSE)
+This project is made with 💕 and hence published with [MIT LICENSE](LICENSE)
+### in short #free stuff 😉
 
 ------
 
 <p>&nbsp;</p>
+
+## Become a sponsors 🥇
 
 <p align="center">
   <a href="https://github.com/sponsors/eaccmk" target="_blank" >
@@ -219,10 +225,14 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
   Become a <a href="https://github.com/sponsors/eaccmk" target="_blank">sponsor</a> and have your company logo here
 </p>
 
-<br>
 
-----
-__Support me in creating more OSS stuff__ 👉 [GitHub Sponsors](https://github.com/sponsors/eaccmk) :heart:
+<p align="center">
+  Support me :heart::heart: in creating more OSS stuff 👉 
+  <a href="https://github.com/sponsors/eaccmk" target="_blank" >
+    <img src="img/github_sponsor_btn.svg" alt="sponsor icon with link">
+  </a>
+</p>
+
 ----
 
 
