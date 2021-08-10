@@ -60,7 +60,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 |---|---|---|
 |[karate](https://github.com/intuit/karate)  | Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. |  &#9745;`Java` |
 |[PACT](https://docs.pact.io/)|Pact is a code-first tool for testing HTTP and message integrations using contract tests. |&#9745;`JVM/Java` &#9745;`JS` &#9745;`Ruby`<br> &#9745;`NET`  &#9745;`GO` &#9745;`PHP` &#9745;`Python` &#9745;`Swift` <br> more details on [feature support](https://docs.pact.io/roadmap/feature_support)|
-|[Postman](https://www.postman.com/)  | Easily stay up to date on the performance and health of your APIs and services with Postman API monitors. |  &#9745;`Many` |
+|[Postman](https://www.postman.com/)  | Easily stay up to date on the performance and health of your APIs and services with Postman API monitors. |  &#9745;`JS`and &#9745; [code-snippets](https://learning.postman.com/docs/sending-requests/generate-code-snippets/) of other lang. ✅ |
 |[Rest Assured](https://rest-assured.io/)  | Testing and validating REST services in Java... |  &#9745;`Java` |
 |[SoapUI](https://www.soapui.org/)|Used for API testing using Web Service Mocking|`supports REST, SOAP, and IoT protocols`|
 |[cypress API](https://www.cypress.io/blog/2017/11/07/add-gui-to-your-e2e-api-tests/) | E2E API tests|[Discover its API](https://docs.cypress.io/api/table-of-contents)|
@@ -166,7 +166,13 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 
 | Dish | Description |Served On |
 |---|---|---|
-| Coming soon....| Dish is Ordered | Preparing now.. |
+| [AWS CodePipeline](https://aws.amazon.com/getting-started/projects/set-up-ci-cd-pipeline/)|On AWS Automate your software delivery process using continuous integration and delivery (CI/CD) pipelines | [Pricing](https://aws.amazon.com/pricing/)|
+| [Azure pipelines](https://azure.microsoft.com/en-au/services/devops/pipelines/) | Continuously build, test, and deploy to any platform and cloud | [Pricing](https://azure.microsoft.com/en-au/pricing/details/devops/azure-devops-services/)|
+| [circleci](https://circleci.com/)|Automate your development process with continuous integration in our cloud or on your own infrastructure.|[Pricing](https://circleci.com/pricing/)|
+| [GitHub Actions](https://github.com/features/actions)| Automate your workflow from idea to production | [Pricing](https://github.com/pricing)|
+| [Jenkins](https://www.jenkins.io/)| The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. | #free start from [here](https://www.jenkins.io/doc/book/installing/) |
+|[travis-ci](https://www.travis-ci.com/)|Easily sync your projects with Travis CI and you'll be testing your code in minutes.| [Pricing](https://www.travis-ci.com/plans)|
+
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
@@ -187,19 +193,11 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 [Back to Menu 🥗 ](#menu-) <br><br>
 
 
-
-### **Methodologies**
-| Dish | Description |Served On |
-|---|---|---|
-| Coming soon....| Dish is Ordered | Preparing now.. |
-
-[Back to Menu 🥗 ](#menu-) <br><br>
-
-
 ### **Test Documentation**
 | Dish | Description |Served On |
 |---|---|---|
-| Coming soon....| Dish is Ordered | Preparing now.. |
+|[TestCase Studio](https://selectorshub.com/testcase-studio/) | Record the user actions from web application in plain English Sentences. You can also generate XPath and Automation Code for every user action...| Plugin - multiple Browsers by [selectorshub](https://selectorshub.com)|
+|[Zephyr Squad](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud) |A flexible test management solution inside Jira, perfect for Agile teams focusing on Test Design, Execution, and Test Automation| Works with [JIRA](https://www.atlassian.com/software/jira)|
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
