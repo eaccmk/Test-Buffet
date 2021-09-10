@@ -36,6 +36,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 * [Enablers](#enablers)
 * [Learn Testing](#learn-testing)
 * [Methodologies](#methodologies)
+* [Reporting](#reporting)
 * [Test Documentation](#test-documentation)
 
 <br>
@@ -189,6 +190,24 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 | Dish | Description |Served On |
 |---|---|---|
 | Coming soon....| Dish is Ordered | Preparing now.. |
+
+[Back to Menu 🥗 ](#menu-) <br><br>
+
+
+### **Methodologies**
+| Dish | Description |Served On |
+|---|---|---|
+| Coming soon....| Dish is Ordered | Preparing now.. |
+
+[Back to Menu 🥗 ](#menu-) <br><br>
+
+
+### **Reporting**
+| Dish | Description |Served On |
+|---|---|---|
+|[Cucumber Reports](https://cucumber.io/docs/cucumber/reporting/)|Cucumber uses reporter plugins to produce reports that contain information about what scenarios have passed or failed.| &#9745;`Java` &#9745;`JavaScript` &#9745; `Ruby` |
+|[Extent Reports](https://www.extentreports.com/)|Beautifully crafted reports and realtime analytics ...|&#9745;`Java` &#9745;`.NET` &#9745;`klov` |
+|[zebrunner](https://zebrunner.com/)| Zebrunner tool is aimed to increase the visibility of test automation...| &#9745;`Java` &#9745; `Python` &#9745;`C#` &#9745;`JavaScript` |
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
