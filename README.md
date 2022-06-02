@@ -65,7 +65,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 |[Rest Assured](https://rest-assured.io/)  | Testing and validating REST services in Java... |  &#9745;`Java` |
 |[SoapUI](https://www.soapui.org/)|Used for API testing using Web Service Mocking|`supports REST, SOAP, and IoT protocols`|
 |[cypress API](https://www.cypress.io/blog/2017/11/07/add-gui-to-your-e2e-api-tests/) | E2E API tests|[Discover its API](https://docs.cypress.io/api/table-of-contents)|
-
+|[playwright API](https://playwright.dev/docs/test-api-testing) | E2E API tests|&#9745;`JS`, &#9745;`TS`, &#9745;`Python`, &#9745;`Java`, &#9745;`.Net`|
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
@@ -101,6 +101,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 |[Apache JMeter™](https://jmeter.apache.org/)|a 100% pure Java application designed to load test functional behavior and measure performance.|&#9745; `Java` |
 |[LoadNinja](https://loadninja.com/)|Create and Run Load Tests in Half the Time.( that's what they say on their web :) )|[Support & doc](https://support.smartbear.com/loadninja/)|
 |[BlazeMeter](https://www.blazemeter.com/)|Simulate thousands or millions of virtual users from 56 geo-locations....|[Resources](https://www.blazemeter.com/resources/)|
+|[Ddosify](https://github.com/ddosify/ddosify/)|Run load test by the CLI options or a config file.|[Resources](https://github.com/ddosify/ddosify#load-types)|
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
@@ -156,7 +157,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 |[TestCafe](https://testcafe.io/)|End-to-end testing, simplified|&#9745;`JS`|
 |[UFT One / famously called HP QTP](https://www.microfocus.com/en-us/products/uft-one/overview)|Test automation with one intelligent functional testing tool for Web, Mobile, API and enterprise apps.|&#9745;`JS`|
 |[webdriver.io](https://webdriver.io/)|Next-gen browser and mobile automation test framework for Node.js|&#9745;`JS`|
-
+|[Playwright 🎭](https://playwright.dev/docs/intro) | E2E UI tests|&#9745;`JS`, &#9745;`TS`, &#9745;`Python`, &#9745;`Java`, &#9745;`.Net`|
 
 [Back to Menu 🥗 ](#menu-) <br><br>
 
