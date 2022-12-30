@@ -9,7 +9,7 @@ One stop **café** for all **Testing Tools** & **Knowledge**.
 
 <p align="center">
   <a href="https://github.com/sponsors/eaccmk" target="_blank" >
-  <img src="img/tree.png" height="350px" width="750px" alt="Test buffet Image showing all tools as hanging fruits on a tree">
+  <img src="img/tree.png" height="500px" width="750px" alt="Test buffet Image showing all tools as hanging fruits on a tree">
 
 <!-- <img src="img/buffet.jpg" height="350px" width="750px" alt="sample placeholder image for logo">
   </a>
